@@ -9,8 +9,10 @@ Is an learning demo flutter android app for querying specify weather by place.
 query current location wether &nbsp;&nbsp;     query specify location wether  &nbsp;&nbsp;         show specify location wether
 
 
-## 2、Climate change flutter app
-Is an learning demo flutter android app for querying specify weather by place.
+## 2、English learning app
+Making  a  learning Englist app
+
+(https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/comments_app.png) 
    
 
 

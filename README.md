@@ -10,7 +10,7 @@ query current location wether &nbsp;&nbsp;     query specify location wether  &n
 
 
 ## 2、English learning app
-Making  a  learning Englist app
+Making  a  learning English app
 
 ![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/comments_app.png) 
    

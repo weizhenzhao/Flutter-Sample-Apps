@@ -1,5 +1,6 @@
 # Flutter-Sample-Apps
-Flutter-Sample-Apps
+Flutter Cross Platform developing , One version of flutter code can be deployed to both android and ios without
+changing the code anymore
 
 ## 1、Climate change flutter app
 Is an learning demo flutter android app for querying specify weather by place.

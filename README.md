@@ -15,13 +15,19 @@ Making  a  learning English app
 ![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/comments_app.png) 
 
 
-## 3、An demo app for flutter mobile view jump 
+## 3、A demo app for flutter mobile view jump 
 using Navigator.pushNamed(context, '{view name}')
 
 ![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flutter%20app%E7%95%8C%E9%9D%A2%E8%B7%B3%E8%BD%AC.PNG) 
 ![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flutter_app%E7%95%8C%E9%9D%A2%E8%B7%B3%E8%BD%AC2.PNG) 
 ![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flutter_app%E7%95%8C%E9%9D%A2%E8%B7%B3%E8%BD%AC3.PNG) 
    
+
+## 4、A demo app for flutter flash chatter 
+![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flash_chatter_first_screen.PNG) 
+![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flutter-chatter%E5%AF%B9%E8%AF%9D%E7%95%8C%E9%9D%A2.PNG) 
+![image](https://github.com/weizhenzhao/Flutter-Sample-Apps/blob/master/images/flutter-%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.PNG) 
+
 
 
 
